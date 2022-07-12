@@ -1,4 +1,3 @@
-<!-- HackMD link: https://hackmd.io/JiIgyQ7QT9i12-y6kiJHog -->
 # CSE 11 SS1-2022 PA3 - 2D Arrays and ArrayLists
 **Due date: Tuesday, July 19 @ 11:59PM PST**
 
